@@ -1,4 +1,4 @@
-FROM    telegraf:1.35.0-alpine
+FROM    telegraf:1.35.1-alpine
 
 LABEL   org.opencontainers.image.title=metrasensor
 LABEL   org.opencontainers.image.title=mtr-agent
