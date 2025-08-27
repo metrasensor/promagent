@@ -1,4 +1,4 @@
-FROM    telegraf:1.35.3-alpine
+FROM    telegraf:1.35.4-alpine
 
 LABEL   org.opencontainers.image.title="promagent"
 LABEL   org.opencontainers.image.source="https://github.com/metrasensor/promagent"
